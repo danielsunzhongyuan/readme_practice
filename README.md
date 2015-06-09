@@ -39,4 +39,4 @@ x *= 8
 
 Links
 
-[www.baidu.com](www.google.com)
+[www.baidu.com](http://www.google.com)
