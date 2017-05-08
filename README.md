@@ -11,6 +11,7 @@ bold
 **This text is bold style**
 _This text is italic style_
 
+---
 
 List
 
@@ -26,6 +27,7 @@ List
 2. Item8
 3. Item9
 
+***
 
 Code formatting
 
