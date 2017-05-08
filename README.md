@@ -44,11 +44,26 @@ Links
 [www.baidu.com](http://www.google.com)
 
 
-#table
+# table
 | Table | Col1 | Col2 |
 | ----- |:----:| ----:|
 | Row1  | 1-1  | 1-2  |
 | Row2  | 2-1  | 2-2  |
 | Row3  | 3-1  | 3-2  |
 
-#
+# table 2
+First Header|Second Header
+------------ | -------------
+Content from cell 1 | Content fromcell 2
+Content inthe first column | Content in the second column
+
+
+
+# task list
+- [ ] task one
+- [x] task two
+
+# delete
+~~Thisi is removed~~
+
+
