@@ -1,7 +1,7 @@
 # readme_practice
 
 ## head2
-#sdf
+# sdf
 
 Blockquotes
 > This is blockquotes
@@ -42,3 +42,13 @@ x *= 8
 Links
 
 [www.baidu.com](http://www.google.com)
+
+
+#table
+| Table | Col1 | Col2 |
+| ----- |:----:| ----:|
+| Row1  | 1-1  | 1-2  |
+| Row2  | 2-1  | 2-2  |
+| Row3  | 3-1  | 3-2  |
+
+#
